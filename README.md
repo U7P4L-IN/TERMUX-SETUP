@@ -25,7 +25,7 @@ U7P4L IN
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf CRACK
+ rm -rf File_Clone
  git clone --depth=1 https://github.com/U7P4L-IN/File_Clone.git
 
  cd File_Clone
