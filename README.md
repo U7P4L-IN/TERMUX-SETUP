@@ -23,9 +23,9 @@ ANONYMOUS U7P4L
  pip install futures
  pip install mechanize
  cd $HOME 
- git clone https://github.com/ANONYMOUS-U7P4L/File.git
+ git clone https://github.com/ANONYMOUS-U7P4L/File_Clone.git
 
- cd File
+ cd File_Clone
 
  python File.py 
 ```
