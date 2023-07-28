@@ -35,7 +35,7 @@ U7P4L IN
  python File.py
 ```
 ### Demo
-
+<p align="center"><img src="https://github.com/U7P4L-IN/FILE-CLONE/blob/main/image/XRecorder_28072023_191314-01.jpeg">
 
 
 <p align="center"><img src="https://github.com/U7P4L-IN/File_Clone/blob/main/1687697757962.jpg">
