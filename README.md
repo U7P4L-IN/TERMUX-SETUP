@@ -32,7 +32,7 @@ U7P4L IN
 
  ls
 
- python File.py
+ python FILE.py
 ```
 ### Demo
 <p align="center"><img src="https://github.com/U7P4L-IN/FILE-CLONE/blob/main/image/XRecorder_28072023_191314-01.jpeg">
