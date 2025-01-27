@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUXB%20BASIC%20MODULE%20SETUP%20FOR%20TERMUX%20BOT%20SHARE&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUXB%20BASIC%20MODULE%20SETUP%20FOR%20TERMUX%20APP%20!!&descAlignY=51&descAlign=62)
 
 </p>
    <p align="center">
